@@ -1,6 +1,6 @@
 # bioinformaticsclass_SAGseembly
 Assemble a SAG for ENVS6492
-
+Editting to show the 2024 class version control 
 
 # Outline of workflow
 First will normalise reads (needed for WGA cells)
